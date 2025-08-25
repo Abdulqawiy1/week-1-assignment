@@ -15,7 +15,7 @@ A simple Python calculator that performs basic arithmetic operations.
 2. Clone or download this repository
 3. Run the program using:
    ```
-   python calculator.py
+   calculator.py
    ```
 4. Follow the on-screen instructions to input two numbers and an operation
 
